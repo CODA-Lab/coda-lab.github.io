@@ -1,2 +1,2 @@
-# CODA-Lab.github.io
+# coda-lab.github.io
 Coalition for Open-Source Defense Analysis
